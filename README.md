@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Muho 👋
 
-<!--
-**muhosekerci/muhosekerci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Web Developer | Python & JavaScript Enthusiast 🇹🇷
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+- 🔭 I’m a passionate web developer from Turkey.
+- 🐍 Skilled in Python and JavaScript (Node.js).
+- 🌱 Always eager to learn new technologies and improve my skills.
+- 💻 Experienced in both backend and frontend development.
+
+---
+
+### Skills
+
+- **Backend:** Python (Django, Flask), Node.js
+- **Frontend:** JavaScript
+- **Databases:** MySQL, MongoDB
+- **Tools:** Git, VSCode, Postman
+
+---
+
+### Contact Me
+
+- 📧 muho@example.com
+- 🌐 My Site [Click](https://muhosekerci.xyz)
+- 💬 Discord: [Click](https://discord.com/users/1183322309294039060)
+
+
+---
+
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhosekerci&show_icons=true&theme=blue-green" />
+</p>
