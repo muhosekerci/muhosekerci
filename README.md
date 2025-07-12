@@ -1,6 +1,6 @@
 # Hi, I'm Muho 👋
 
-## Web Developer | Python & JavaScript Enthusiast 🇹🇷
+## Web Developer | Python & JavaScript Enthusiast
 
 ---
 
@@ -24,7 +24,6 @@
 
 ### Contact Me
 
-- 📧 muho@example.com
 - 🌐 My Site [Click](https://muhosekerci.xyz)
 - 💬 Discord: [Click](https://discord.com/users/1183322309294039060)
 
