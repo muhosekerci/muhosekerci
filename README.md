@@ -25,6 +25,7 @@
 ### Contact Me
 
 - 🌐 My Site: [Click](https://muhosekerci.xyz)
+- 💎 GunsLol: [Click](https://guns.lol/muhosekerci)
 - 💬 Discord: [Click](https://discord.com/users/1183322309294039060)
 
 
