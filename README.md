@@ -1,4 +1,4 @@
-# Hi, I'm Muho 👋
+# Hi, I'm Muho Şekerci👋
 
 ## Web Developer | Python & JavaScript Enthusiast
 
