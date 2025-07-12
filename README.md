@@ -24,7 +24,7 @@
 
 ### Contact Me
 
-- 🌐 My Site [Click](https://muhosekerci.xyz)
+- 🌐 My Site: [Click](https://muhosekerci.xyz)
 - 💬 Discord: [Click](https://discord.com/users/1183322309294039060)
 
 
