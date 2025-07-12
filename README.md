@@ -15,7 +15,7 @@
 
 ### Skills
 
-- **Backend:** Python (Django, Flask), Node.js
+- **Backend:** Python, Node.js
 - **Frontend:** JavaScript
 - **Databases:** MySQL, MongoDB
 - **Tools:** Git, VSCode, Postman
