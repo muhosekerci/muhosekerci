@@ -35,12 +35,12 @@ I work mainly with **Python**, **JavaScript**, **Node.js**, and modern web techn
 
 ---
 
-## 📌 What I'm Working On
+## 📌 Currently Improving
 
-- Improving my backend and frontend development skills
-- Building personal web projects
-- Learning better project structure, clean code and deployment practices
-- Creating tools that solve real problems instead of just existing for decoration, because apparently the internet needed more unfinished dashboards
+- Backend and frontend development
+- Project structure and clean code
+- Deployment and real-world development practices
+- Building useful tools instead of abandoned “maybe I’ll finish this someday” projects
 
 ---
 
@@ -58,7 +58,6 @@ I work mainly with **Python**, **JavaScript**, **Node.js**, and modern web techn
 
 ## 🌐 Connect With Me
 
-[![Website](https://img.shields.io/badge/Website-muhosekerci.xyz-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://muhosekerci.xyz)
 [![Guns.lol](https://img.shields.io/badge/Guns.lol-Profile-111111?style=for-the-badge)](https://guns.lol/muhosekerci)
 [![Discord](https://img.shields.io/badge/Discord-Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1183322309294039060)
 
