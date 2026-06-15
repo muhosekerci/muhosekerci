@@ -1,39 +1,69 @@
-# Hi, I'm Muho Şekerci👋
+# Hi, I'm Muho Şekerci 👋
 
-## Web Developer | Python & JavaScript Enthusiast
-
----
-
-### About Me
-
-- 🔭 I’m a passionate web developer from Turkey.
-- 🐍 Skilled in Python and JavaScript (Node.js).
-- 🌱 Always eager to learn new technologies and improve my skills.
-- 💻 Experienced in both backend and frontend development.
+I'm a web developer from Turkey, focused on building clean, useful and scalable web applications.  
+I work mainly with **Python**, **JavaScript**, **Node.js**, and modern web technologies.
 
 ---
 
-### Skills
+## 🚀 About Me
 
-- **Backend:** Python, Node.js
-- **Frontend:** JavaScript
-- **Databases:** MySQL, MongoDB
-- **Tools:** Git, VSCode, Postman
-
----
-
-### Contact Me
-
-- 🌐 My Site: [Click](https://muhosekerci.xyz)
-- 💎 GunsLol: [Click](https://guns.lol/muhosekerci)
-- 💬 Discord: [Click](https://discord.com/users/1183322309294039060)
-
+- 💻 I build backend and frontend projects.
+- 🐍 I use Python for automation, backend systems and practical tools.
+- ⚡ I work with JavaScript and Node.js for web development.
+- 🧠 I enjoy learning new technologies and improving my projects over time.
+- 🛠️ I care about writing clean, readable and maintainable code.
 
 ---
 
+## 🧰 Tech Stack
 
-### GitHub Stats
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📌 What I'm Working On
+
+- Improving my backend and frontend development skills
+- Building personal web projects
+- Learning better project structure, clean code and deployment practices
+- Creating tools that solve real problems instead of just existing for decoration, because apparently the internet needed more unfinished dashboards
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhosekerci&show_icons=true&theme=blue-green" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhosekerci&show_icons=true&theme=tokyonight" alt="Muho's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhosekerci&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+[![Website](https://img.shields.io/badge/Website-muhosekerci.xyz-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://muhosekerci.xyz)
+[![Guns.lol](https://img.shields.io/badge/Guns.lol-Profile-111111?style=for-the-badge)](https://guns.lol/muhosekerci)
+[![Discord](https://img.shields.io/badge/Discord-Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1183322309294039060)
+
+---
+
+<p align="center">
+  <i>Always learning, building and improving.</i>
 </p>
