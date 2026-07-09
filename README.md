@@ -1,19 +1,19 @@
-<h1 align="center">Merhaba, ben Muho 👋</h1>
+<h1 align="center">Hi, I'm Muho 👋</h1>
 <h3 align="center">Web Developer — Python & JavaScript / Node.js</h3>
 
 <p align="center">
-  Temiz, sürdürülebilir ve gerçek dünyada işe yarayan yazılımlar üretmeye odaklanıyorum.
+  Focused on building clean, maintainable software that actually gets used.
 </p>
 
 <br>
 
-### 🧭 Hakkımda
+### 🧭 About Me
 
-- 🔭 Şu anda backend & frontend odaklı projeler geliştiriyorum
-- 🐍 Python ile otomasyon, backend sistemler ve pratik araçlar yazıyorum
-- ⚡ JavaScript / Node.js ile modern web uygulamaları geliştiriyorum
-- 🧱 Kod kalitesine, okunabilirliğe ve proje mimarisine önem veririm
-- 🎯 Amacım: "belki bir gün bitiririm" projeleri değil, gerçekten kullanılan araçlar üretmek
+- 🔭 Currently building backend & frontend focused projects
+- 🐍 Using Python for automation, backend systems and practical tooling
+- ⚡ Building modern web apps with JavaScript / Node.js
+- 🧱 Care about code quality, readability and project architecture
+- 🎯 Goal: ship tools people actually use, not "maybe I'll finish it someday" projects
 
 <br>
 
@@ -36,7 +36,7 @@
 
 <br>
 
-### 📊 GitHub İstatistikleri
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=muhosekerci&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -44,12 +44,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhosekerci&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=muhosekerci&theme=tokyonight&hide_border=true" />
 </p>
 
 <br>
 
-### 🌐 İletişim
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://discord.com/users/1183322309294039060">
